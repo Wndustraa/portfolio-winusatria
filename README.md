@@ -1,4 +1,3 @@
-![Portfolio Preview](https://github.com/Abhiz2411/3D-interactive-portfolio/blob/main/public/assets/seo/og-image.png?raw=true)
 🚀 Windu Satria | Portfolio Website
 
 Selamat datang di repository portfolio pribadi gua, Windu Satria Pratama! 🎉
